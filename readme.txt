@@ -13,5 +13,5 @@ Possible improvements:
 - Use seperate css for mobile devices so that everything is displayed correctly in small screens
 
 
-Online demo:http://chat.oblapps.com
+Online demo: http://chat.theokand.com/
 
