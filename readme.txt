@@ -11,6 +11,7 @@ Technologies used:
 
 Possible improvements:
 - Use seperate css for mobile devices so that everything is displayed correctly in small screens
+- Don't refresh the chat history when the user has scroller the window upwards to look at earlier messages. Refreshing returns the user to the bottom of the chat history and interferes with his action.
 
 
 Online demo: http://chat.theokand.com/
