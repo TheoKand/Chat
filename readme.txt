@@ -1,4 +1,7 @@
 ﻿Single Page Application demonstrating a fully functional chat room with MVC / JQuery timers. 
+﻿
+This sample was submitted as an article to CodeProject.com:
+http://www.codeproject.com/Articles/794147/MVC-Chat-room
 
 The server state (users,chat history) is persisted with a static Model instance. 
 The partial views query the server state every 5 seconds. 
@@ -15,4 +18,5 @@ Possible improvements:
 - Possibly add a locking around the code that updates the static ChatModel instance, to avoid concurrency issues when many people are interacting with the chat
 
 Online demo: http://chat.theokand.com/
+
 
