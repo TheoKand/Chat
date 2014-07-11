@@ -25,7 +25,6 @@ namespace MVC_JQuery_Chat.Models
 
             ChatHistory.Add(new ChatMessage() {
                 Message="The chat server started at " + DateTime.Now });
-                
         }
 
         public class ChatUser
@@ -47,7 +46,5 @@ namespace MVC_JQuery_Chat.Models
             public string Message = "";
 
         }
-
-
     }
 }
