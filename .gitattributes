@@ -1,1 +1,2 @@
-MVC_JQuery_Chat/packages linguist-vendored
+MVC_JQuery_Chat/packages/* linguist-vendored
+*.xml linguist-vendored
